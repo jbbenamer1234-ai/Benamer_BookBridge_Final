@@ -81,3 +81,5 @@ I tested the system using 15 test cases to check if its different features work 
 
 I also tested the system by closing and reopening it to check if the records were still saved in the database. 
 
+NOTE: The TSA4 output was directly integrated into the final project. Since the final application uses the same Swing interface, JDBC connectivity, database schema, and core functionality developed in TSA4, a separate TSA4 folder was not necessary. The repository therefore contains TSA1, TSA2, TSA3, and the BookBridge_Final folder, which serves as both the TSA4 implementation and the final integrated submission.
+
